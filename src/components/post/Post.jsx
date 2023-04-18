@@ -14,7 +14,7 @@ export default function Post() {
     </div>
 
     <span className="postTitle">
-     Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Lorem ipsum dolor sit amet 
     </span>
     
     <hr/>
