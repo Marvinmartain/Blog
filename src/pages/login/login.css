@@ -1,0 +1,61 @@
+.login {
+    height: calc(200vh - 250px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://images.wombo.art/generated/d42a3d0d-94f3-4042-abd1-b5afb2d91fee/final.jpg?Expires=1689047794&Signature=cEDbaeXTaCiGKjixFCN6YJumsBiWxXQPBlo205jiXJYbhbQBmzPnXbUhxCgil9AbiLaCR~3Y7VCdFUYivzDfP6iqkcpv8ssoZoMIu~O40oxLIH9lAGXVxDtgyCZitUh-VAKQGm6enxkoR2LFMiZEVFGtP6f434cZ1W0F7oC57fvfkIEfXR3eH5lkxtJRp5rhc3GFgjvmcjMHHO01ldidO0W8bBD~d99w4yMQszmFlotrGPA7whqYy8MvrwKp7lws6SoFTAJV62LC3Q2LmvVSEd93N1Q-CXcE7wSNm~4N4NBBkhvQazfU7TqyhuwYLPj2Bn9etKUCKkj5Cp9M8maNKA__&Key-Pair-Id=K1ZXCNMC55M2IL");
+    background-size: cover;
+  }
+  
+  .loginTitle {
+    font-size: 50px;
+  }
+  
+  .loginForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .loginForm > label {
+    margin: 10px 0;
+  }
+  
+  .loginInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .loginInput:focus {
+    outline: none;
+  }
+  
+  .loginButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: lightcoral;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .loginRegisterButton {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: teal;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
