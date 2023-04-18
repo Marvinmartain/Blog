@@ -1,0 +1,61 @@
+.register {
+    height: calc(200vh - 150px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://images.wombo.art/generated/137fea7b-bc3f-4cfb-adbc-669ea4bc4f6d/final.jpg?Expires=1689051006&Signature=feL1NaWfPCDLCNo2eMFS68y5qmHIC56ONOqY-nIO8c19bs9pafUg-EtaKnOfznZYZgDFhedM8URaxW7ZCYV8Y-qjhPrr32Igr62La-~~wfv30QBlsOHQv~3RKk875~FA25BV~4nHf4dNj5Jdcc2KChRcIbwGtsp4XUdPd9nfp5-FBqriX9efAZnevirQGy6OGZrW78RZBasvm1kS-5ZGvkkOe0UwSZGeQJGqb0OX2yOJUcLqc1KMBybLT-BjW7VYob1WRUiwGuWottrd0NTA1yui1tCdLa6rTYHo9br-LpkRZ0dJwnU~-QBbyoxE5oCl-GV8PbBnja4lN8GVzBvkuQ__&Key-Pair-Id=K1ZXCNMC55M2IL");
+    background-size: cover;
+  }
+  
+  .registerTitle {
+    font-size: 50px;
+  }
+  
+  .registerForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registerForm > label {
+    margin: 10px 0;
+  }
+  
+  .registerInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .registerInput:focus {
+    outline: none;
+  }
+  
+  .registerButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .registerLoginButton {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
