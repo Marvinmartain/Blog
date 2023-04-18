@@ -21,7 +21,7 @@ export default function TopBar() {
 </div>
      
      <div className="topRight">
-      <img src="https://images.wombo.art/generated/ba5db977-6879-4486-b6ad-cdf832054fbe/final.jpg?Expires=1688977720&Signature=3~aiqy-U-h1BPwATJLccXQdlJ-d82hbaO3-h3jPlc2Dxgwf9Fva3eEEULqpIz-T-WYCDpylVgqBVx9B54u~EQ-moyU9sm-kf9SQZ~7DgzA03Peebj7y0gFaEAdzxB6idCiKrhU0Sp2WYHp780781Jc0ZVqVHLKSTY-lGkZaE4MotnI62Zy2ZF4dwn4FuIks0wczz2ZHM~7tZKH-6gLTEeY0yJjnV0W80xhcZZoD7Gp5tcGnjEQSiSNlrZa1di8yLkh7cV-jarnw3txmhnnOaAAX~8k6i7dcFJC7J8TMXhOZ8ExSGkPgpRODDKiPWPzrfVkijtDUjoGibAeAujz3TfA__&Key-Pair-Id=K1ZXCNMC55M2IL" 
+      <img src="https://images.wombo.art/generated/82751bbf-7529-45b6-ac47-c880541c1fa4/final.jpg?Expires=1688977876&Signature=NePYZjhMhSwPKW~KR1MXZjsH1-iio3wqSRv4~Lu5r-MCeaEOJdMRNaW8xAOHDb-Af5g1-Q85hmNO8GiGTrJEVj4I6K85qISKuRdYDAmiMDnxbgaLexD9T49zRBiQVyaJSHLE9otOGIPdrzrmOtokvkVHbd~CaLfxxNcFFC735OH7AECZstsvUk7xqla5yo5LCOTCxLcremPkQbPFrSVqevhBctf-wdmF7xD3nYJMxgWWeBYGm3U4sheBaGCrdH-1d-jP-gfj7hLEr4wnWcpaunpT1Hjyq~OqnmpsxEG9ta1MwZuftqaIkJb~TEVJ0VLsi4d7-dhMZ16CEWoqEUVZ0w__&Key-Pair-Id=K1ZXCNMC55M2IL" 
       className="topImg"
       alt=""
       />
